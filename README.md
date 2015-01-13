@@ -12,4 +12,4 @@ Processing
 
 ### Schematics & Breadboard image for Arduino Board
 This part shows the circuit of this project's Arduino part. If you also want to try to build such project, just follow this. When building the button matrix, I referred to Michael Pilcher (2014). He mentioned about how to control multiple buttons using one analog pin. The way to achieve that is to do tricks on the resistors connect to each button. Buttons with different resistors can input different value to the analog pin, therefore, which button is pressed can be known.
-![My image](gongzai1219.github.com/Electronic-Reversi/img/image.jpg)
+![My image](https://gongzai1219.github.com/Electronic-Reversi/img/Reversi.png)
